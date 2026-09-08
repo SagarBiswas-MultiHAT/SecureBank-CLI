@@ -74,7 +74,7 @@ Name: Sagar Biswas
 Father name: Shyamal Biswas
 National ID: 1122334455778899
 Phone: 0172731077
-Email: eng.sagar.aiub@example.com
+Email: sagarbiswas@multihat.dev
 Set password: ********
 Initial deposit: 100
 
